@@ -1,0 +1,20 @@
+.page-header {
+	font-family: 'Lobster Two', cursive;
+	color: #000080;
+}
+body {
+	padding-top: 50px;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+h2 {
+	font-size: 25px;
+	color: #000080;
+	font-family: 'Lobster Two', cursive;
+}
+
+.navbar-fixed-top {
+	margin-bottom: 0px;
+	position: fixed;
+}
